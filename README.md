@@ -5,5 +5,7 @@
 - 🔭 Enhanced my skills at Turing College through a Data Analytics course.
 - 🌱 Skills: **SQL, Python, Google Spreadsheets, MS Office, Tableau.**
 - ⚡ Hobbies: reading, hiking, dancing.
-- 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/%C5%ABla-markevi%C4%8Dien%C4%97-58173b171/) 
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/%C5%ABla-markevi%C4%8Dien%C4%97-58173b171/).
+
+   
 
