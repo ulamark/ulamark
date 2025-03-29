@@ -1,9 +1,9 @@
 ## Hello there 👋, I'm Ūla! 
 
-**Living in Lithuania, I'm passionate about data analysis and currently searching for a job as a Junior Data Analyst.**
+**Living in Lithuania, I'm passionate about data analysis and market research / analysis.**
 
 - 🔭 Enhanced my skills at Turing College through a Data Analytics course.
-- 🌱 Skills: **SQL, Python, Google Spreadsheets, MS Office, Tableau.**
+- 🌱 Skills: **SQL, Python, Google Spreadsheets, MS Office, Tableau, IBM SPSS.**
 - ⚡ Hobbies: reading, hiking, dancing.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/%C5%ABla-markevi%C4%8Dien%C4%97-58173b171/).
 
